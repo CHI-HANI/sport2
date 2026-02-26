@@ -3,7 +3,7 @@
 
 تطبيق لياقة بدنية احترافي — تحدي 30 يوم | PWA + Android TV + Desktop Mode
 
-🔗 **الرابط:** https://chi-hani.github.io/sport/
+🔗 **الرابط:** https://chi-hani.github.io/sport2/
 
 ---
 
